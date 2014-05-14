@@ -1,0 +1,4 @@
+fasterBook
+==========
+
+a faster book
